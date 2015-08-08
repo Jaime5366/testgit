@@ -1,0 +1,3 @@
+#  ingonar ciertos archivos o extension de archivos los cuales no nos interesen!
+.DS_Store
+*.swp
