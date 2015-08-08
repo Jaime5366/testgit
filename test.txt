@@ -2,4 +2,3 @@ prueba #1
 prueba #2
 prueba de remotos
 prueba de git pull
-prueba de git push
